@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Ailton Allen/.m2/repository/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/Ailton Allen/Documents/NetBeansProjects/Agendamento/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Ailton Allen/Documents/NetBeansProjects/Agendamento/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Agendamento 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Agendamento 1.0-SNAPSHOT API'
